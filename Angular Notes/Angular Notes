@@ -5,3 +5,4 @@ In order to create a component in angular, there are 3 steps:
 
 To run the server, type: ng serve
 
+to use the terminal to make a boiler-plate code new component, type "ng g c componentname"
