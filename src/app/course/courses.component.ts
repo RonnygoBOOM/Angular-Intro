@@ -20,7 +20,7 @@ export class CoursesComponent {
     }
 
     // the constructor could alternatively look like this without dependency injection: 
-    // constructor(service: CoursesService) {
+    // constructor() {
     //     let service = new CoursesService();
     //     this.courses = service.getCourses();
     // }
