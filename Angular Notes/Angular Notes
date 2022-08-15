@@ -1,0 +1,7 @@
+In order to create a component in angular, there are 3 steps:
+    1. Create a component
+    2. Register it in a module
+    3. Add an element in an HTML markup
+
+To run the server, type: ng serve
+
